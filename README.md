@@ -17,7 +17,7 @@
 ## <p align="center"><h4 align="center"><samp> An aspiring Data Scientist, An Open Source Contributor, Self learner</samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
+<img align="right" src="<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/4FQMuOKR6zQRO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/web-shittyreactiongifs-4FQMuOKR6zQRO">via GIPHY</a></p>" width="40%"/>
   <br>
   
 - 🔭 I have recently completed my graduation in B.Sc (Mathematics, Statistics & Computer Science)
