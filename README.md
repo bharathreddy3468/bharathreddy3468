@@ -17,7 +17,7 @@
 ## <p align="center"><h4 align="center"><samp> An aspiring Data Scientist, An Open Source Contributor, Self learner</samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/bharathreddy3468/bharathreddy3468/blob/main/giphy.gif width="40%"/>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
   
 - 🔭 I have recently completed my graduation in B.Sc (Mathematics, Statistics & Computer Science)
